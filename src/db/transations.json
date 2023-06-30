@@ -1,0 +1,12 @@
+[
+    {
+    "what": "milk",
+    "amount": 3.60,
+    "date": null
+    },
+    {
+        "what": "nuts",
+        "amount": 2.10,
+        "date": null
+        }
+]

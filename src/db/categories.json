@@ -1,0 +1,15 @@
+{
+    "what": {
+        "type": "string",
+        "required": true
+    },
+    "date": {
+        "type": "Date",
+        "required": false
+    },
+    "amount": {
+        "type": "number",
+        "required": true
+    }
+
+}
